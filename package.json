@@ -18,6 +18,7 @@
   "homepage": "https://github.com/josemi2201/backend-test-front-ntt-data#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "serverless-http": "^3.1.0"
   }
 }
