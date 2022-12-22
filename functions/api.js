@@ -13,3 +13,6 @@ app.use(`${baseRoute}/product`, require('../routes/product.js'));
 app.use(`${baseRoute}/cart`, require('../routes/cart.js'));
 
 module.exports.handler = serverless(app);
+
+
+

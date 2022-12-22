@@ -4,6 +4,7 @@
   "description": "Backend con datos de prueba para prueba de front ntt data",
   "main": "index.js",
   "scripts": {
+    "start": "netlify dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
